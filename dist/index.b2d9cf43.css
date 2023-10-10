@@ -15,6 +15,8 @@ body {
   align-items: center;
   margin-bottom: 30px;
   display: flex;
+  position: sticky;
+  top: 0;
 }
 
 .header__nav {
@@ -164,6 +166,10 @@ body {
   line-height: 16px;
   text-decoration: none;
   display: flex;
+}
+
+.product-card__button:hover {
+  box-shadow: 1px 1px 15px #da41c5;
 }
 
 .product-card__button:active {
