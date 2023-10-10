@@ -73,11 +73,17 @@ body {
   display: flex;
 }
 
+.four-cards {
+  gap: 48px;
+  display: flex;
+}
+
 .product-card {
   border: 1px solid #f3f3f3;
   border-radius: 5px;
   flex-direction: column;
   width: 200px;
+  margin-bottom: 46px;
   padding: 16px;
   display: flex;
 }

@@ -75,6 +75,11 @@ body {
   justify-content: space-around;
 }
 
+.four-cards {
+  display: flex;
+  gap: 48px;
+}
+
 .product-card {
   width: 200px;
   border: 1px solid #F3F3F3;
@@ -82,6 +87,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 16px;
+  margin-bottom: 46px;
 
   &__image {
     width: 160px;
