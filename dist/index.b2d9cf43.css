@@ -89,6 +89,7 @@ body {
 }
 
 .product-card__title {
+  height: 48px;
   margin-bottom: 4px;
   font-size: 12px;
   font-weight: 500;
@@ -145,7 +146,7 @@ body {
 .product-card__button {
   text-transform: uppercase;
   color: #fff;
-  background-color: #00acdc;
+  background-color: #200f41;
   border-radius: 5px;
   justify-content: center;
   align-items: center;
@@ -159,9 +160,9 @@ body {
 }
 
 .product-card__button:active {
-  color: #00acdc;
+  color: #200f41;
   background-color: #fff;
-  border: 1px solid #00acdc;
+  border: 1px solid #200f41;
 }
 
 .price {

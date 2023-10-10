@@ -94,6 +94,7 @@ body {
     line-height: 18px;
     font-weight: 500;
     margin-bottom: 4px;
+    height: 48px;
   }
 
   &__code {
@@ -145,7 +146,7 @@ body {
   &__button {
     height: 40px;
     width: 166px;
-    background-color: #00ACDC;
+    background-color: rgb(32, 15, 65);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -159,8 +160,8 @@ body {
 
     &:active {
       background-color: #fff;
-      border: 1px solid #00ACDC;
-      color: #00ACDC;
+      border: 1px solid rgb(32, 15, 65);
+      color: rgb(32, 15, 65);
     }
   }
 }
