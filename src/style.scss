@@ -1,3 +1,21 @@
+::-webkit-scrollbar {
+  width: 17px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(32, 15, 65);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(218, 65, 197);
+  border-radius: 10px;
+  border: 3px solid rgb(32, 15, 65);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(rgb(252, 112, 233), rgb(112, 2, 255));
+}
+
 * {
   box-sizing: border-box;
 }

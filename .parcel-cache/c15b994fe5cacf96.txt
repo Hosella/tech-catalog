@@ -7,7 +7,7 @@
 136C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\String.js133413245220909314 0
 103C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\csso\node_modules\mdn-data\css\units.json133413245217879314 0
 82C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\type-fest\index.d.ts133413245198049313 0
-72C:\Users\Сонік\Desktop\project\tech-catalog\dist\mouse.aa2bf1fe.jpg133414066185623342 0
+72C:\Users\Сонік\Desktop\project\tech-catalog\dist\mouse.aa2bf1fe.jpg133414073892583943 0
 95C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133413245220389324 0
 92C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\core\src\Validation.js133413245231389316 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\DK.js133413245232779328 0
@@ -27,7 +27,7 @@
 59C:\Users\Сонік\Desktop\project\tech-catalog\.gitignore133413282248982968 0
 86C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\abortcontroller-polyfill133413245198579311 1
 115C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133413245229259317 0
-53C:\Users\Сонік\Desktop\project\tech-catalog\dist133414066200323339 1
+53C:\Users\Сонік\Desktop\project\tech-catalog\dist133414075456388751 1
 92C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\semver\internal\identifiers.js133413245198029325 0
 91C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\svgo\plugins\removeViewBox.js133413245209179326 0
 84C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\optimizer-svgo133413245204429314 1
@@ -81,7 +81,7 @@
 87C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\counter\package.json133413245185039323 0
 99C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\csso\lib\restructure\1-mergeAtrule.js133413245206799320 0
 138C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133413245221949325 0
-63C:\Users\Сонік\Desktop\project\tech-catalog\src\style.scss133414066251645146 0
+63C:\Users\Сонік\Desktop\project\tech-catalog\src\style.scss133414075455788764 0
 115C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\stringify.js133413245217919518 0
 105C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\features\link-icon-png.js133413245239249521 0
 111C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\cjs\_initializer_define_property.cjs133413245207759311 0
@@ -1779,7 +1779,7 @@
 84C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\parent-module\index.js133413245184029317 0
 83C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\parent-module\license133413245185199332 0
 99C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\cjs\_super_prop_base.cjs133413245212159313 0
-86C:\Users\Сонік\Desktop\project\tech-catalog\dist\lavender-headphones.94cc5938.jpg133414066185093336 0
+86C:\Users\Сонік\Desktop\project\tech-catalog\dist\lavender-headphones.94cc5938.jpg133414073889333930 0
 105C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\cjs\syntax\node\common\feature.cjs133413245204999307 0
 107C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133413245208309314 0
 88C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\nth-check\lib\parse.js.map133413245199239328 0
@@ -2400,7 +2400,7 @@
 89C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\lib\lexer\trace.js133413245231839320 0
 81C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\js-yaml\lib\type.js133413245203119322 0
 86C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\js-yaml\lib\type\null.js133413245200199597 0
-85C:\Users\Сонік\Desktop\project\tech-catalog\dist\logi-keyboard-grey.27a8307f.jpg133414066188373461 0
+85C:\Users\Сонік\Desktop\project\tech-catalog\dist\logi-keyboard-grey.27a8307f.jpg133414073893073923 0
 88C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\js-yaml\lib\type\binary.js133413245184479529 0
 112C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133413245229369318 1
 97C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\features\webxr.js133413245246959318 0
@@ -2474,7 +2474,7 @@
 100C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\features\css-grid.js133413245226559308 0
 85C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\is-binary-path\index.js133413246861399558 0
 110C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs133413245235329318 0
-81C:\Users\Сонік\Desktop\project\tech-catalog\dist\jbl-headphones.c900667a.jpg133414066184813334 0
+81C:\Users\Сонік\Desktop\project\tech-catalog\dist\jbl-headphones.c900667a.jpg133414073889303927 0
 107C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\optimizer-svgo\node_modules\svgo\dist133413245211739317 1
 84C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\is-binary-path\license133413246861449558 0
 98C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\features\hidden.js133413245236279406 0
@@ -2688,7 +2688,7 @@
 89C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\.bin\update-browserslist-db133413245268879739 0
 107C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133413245205419315 0
 112C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133413245225769312 0
-77C:\Users\Сонік\Desktop\project\tech-catalog\dist\hp-monitor.3df1f38b.jpg133414066184813334 0
+77C:\Users\Сонік\Desktop\project\tech-catalog\dist\hp-monitor.3df1f38b.jpg133414073889053926 0
 86C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\entities\lib\decode.d.ts133413245200549312 0
 119C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133413245225469330 0
 113C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts133413245223209326 0
@@ -3320,7 +3320,7 @@
 98C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\lib\syntax\config\parser.js133413245230909321 0
 97C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\cjs\syntax\node\Number.cjs133413245216349320 0
 101C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\lib\syntax\atrule\font-face.js133413245227749315 0
-76C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.b2d9cf43.css.map133414066200313343 0
+76C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.b2d9cf43.css.map133414075456368773 0
 100C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\lib\syntax\atrule\supports.js133413245231559313 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\LS.js133413245240009317 0
 91C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-tree\lib\parser\create.js133413245225159313 0
@@ -3677,7 +3677,7 @@
 115C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\package.json133413245218459330 0
 120C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\querying.d.ts.map133413245221609323 0
 106C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\esm\_interop_require_default.js133413245224139339 0
-84C:\Users\Сонік\Desktop\project\tech-catalog\dist\logi-keyboard-lol.bd895321.jpg133414066185133580 0
+84C:\Users\Сонік\Desktop\project\tech-catalog\dist\logi-keyboard-lol.bd895321.jpg133414073889333930 0
 114C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133413245217529311 0
 117C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133413245224389320 0
 110C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs133413245235289313 0
@@ -3793,7 +3793,7 @@
 95C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\lib\esm\types.d.ts.map133413245210449341 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\lib\esm\types.js.map133413245210709319 0
 112C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js.map133413245201379495 0
-78C:\Users\Сонік\Desktop\project\tech-catalog\dist\star-active.eab81b08.svg133414066185883398 0
+78C:\Users\Сонік\Desktop\project\tech-catalog\dist\star-active.eab81b08.svg133414073893943925 0
 73C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\.bin\parcel133413245268869749 0
 112C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\lib\esm\pseudo-selectors\index.d.ts.map133413245206869406 0
 106C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\css-select\lib\esm\pseudo-selectors\index.js133413245197619325 0
@@ -3987,7 +3987,7 @@
 107C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133413245237299318 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\JM.js133413245238239374 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\JO.js133413245238269312 0
-86C:\Users\Сонік\Desktop\project\tech-catalog\dist\marshall-headphones.091566da.jpg133414066185633342 0
+86C:\Users\Сонік\Desktop\project\tech-catalog\dist\marshall-headphones.091566da.jpg133414073893123927 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\KE.js133413245238479336 0
 93C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\regions\KH.js133413245238789303 0
 117C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133413245240599316 0
@@ -4730,7 +4730,7 @@
 96C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_to_primitive.mjs133413245237409317 0
 99C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_to_property_key.mjs133413245237439317 0
 96C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_ts_generator.mjs133413245237499337 0
-72C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.b2d9cf43.css133414066200253333 0
+72C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.b2d9cf43.css133414075456318740 0
 95C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_ts_metadata.mjs133413245237529313 0
 136C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\7-mergeRuleset.js133413245191009324 0
 90C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\@swc\helpers\src\_update.mjs133413245237679319 0
@@ -6009,15 +6009,15 @@
 75C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\.bin\sass.cmd133413246862619558 0
 77C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\.bin\semver.cmd133413245268879739 0
 77C:\Users\Сонік\Desktop\project\tech-catalog\node_modules\.bin\semver.ps1133413245268869749 0
-78C:\Users\Сонік\Desktop\project\tech-catalog\dist\acer-laptop.870bf972.jpg133414066185633342 0
-86C:\Users\Сонік\Desktop\project\tech-catalog\dist\apple-airpods-pink.8a4e05ab.jpeg133414066188373461 0
-78C:\Users\Сонік\Desktop\project\tech-catalog\dist\asus-laptop.668062bf.jpg133414066184813334 0
+78C:\Users\Сонік\Desktop\project\tech-catalog\dist\acer-laptop.870bf972.jpg133414073893103932 0
+86C:\Users\Сонік\Desktop\project\tech-catalog\dist\apple-airpods-pink.8a4e05ab.jpeg133414073893043931 0
+78C:\Users\Сонік\Desktop\project\tech-catalog\dist\asus-laptop.668062bf.jpg133414073889053926 0
 86C:\Users\Сонік\Desktop\project\tech-catalog\dist\asus-laptop.668062bf.jpg.13996.w133414017796649507 0
 85C:\Users\Сонік\Desktop\project\tech-catalog\dist\hp-monitor.3df1f38b.jpg.13996.y133414017796649507 0
-64C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.html133414066184803344 0
-80C:\Users\Сонік\Desktop\project\tech-catalog\dist\lenovo-laptop.919ae8ee.jpg133414066185603342 0
-74C:\Users\Сонік\Desktop\project\tech-catalog\dist\macbook.511c4551.jpg133414066184813334 0
-71C:\Users\Сонік\Desktop\project\tech-catalog\dist\star.96a02b8a.svg133414066189203340 0
-78C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-catalog.59712999.js133414066188583341 0
-82C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-catalog.59712999.js.map133414066188643341 0
-76C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-logo.4a204a4e.png133414066184813334 0
+64C:\Users\Сонік\Desktop\project\tech-catalog\dist\index.html133414073889313924 0
+80C:\Users\Сонік\Desktop\project\tech-catalog\dist\lenovo-laptop.919ae8ee.jpg133414073893073923 0
+74C:\Users\Сонік\Desktop\project\tech-catalog\dist\macbook.511c4551.jpg133414073889313924 0
+71C:\Users\Сонік\Desktop\project\tech-catalog\dist\star.96a02b8a.svg133414073893324009 0
+78C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-catalog.59712999.js133414074068552103 0
+82C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-catalog.59712999.js.map133414074068612115 0
+76C:\Users\Сонік\Desktop\project\tech-catalog\dist\tech-logo.4a204a4e.png133414073889053926 0

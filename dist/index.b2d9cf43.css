@@ -1,3 +1,21 @@
+::-webkit-scrollbar {
+  width: 17px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #200f41;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #da41c5;
+  border: 3px solid #200f41;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(#fc70e9, #7002ff);
+}
+
 * {
   box-sizing: border-box;
 }
