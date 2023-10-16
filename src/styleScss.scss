@@ -190,6 +190,7 @@ body {
     font-size: 14px;
     line-height: 16px;
     font-weight: 700;
+    visibility: hidden;
 
     &:hover {
       box-shadow: 1px 1px 15px rgb(218, 65, 197);
@@ -200,6 +201,10 @@ body {
       border: 1px solid rgb(32, 15, 65);
       color: rgb(32, 15, 65);
     }
+  }
+
+  &:hover :nth-child(6n + 6) {
+    visibility: visible;
   }
 }
 

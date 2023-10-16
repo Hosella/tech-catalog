@@ -179,6 +179,7 @@ body {
 .product-card__button {
   text-transform: uppercase;
   color: #fff;
+  visibility: hidden;
   background-color: #200f41;
   border-radius: 5px;
   justify-content: center;
@@ -200,6 +201,10 @@ body {
   color: #200f41;
   background-color: #fff;
   border: 1px solid #200f41;
+}
+
+.product-card:hover :nth-child(6n+6) {
+  visibility: visible;
 }
 
 .price {
