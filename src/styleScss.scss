@@ -35,6 +35,7 @@ body {
   margin-bottom: 30px;
   position: sticky;
   top: 0;
+  z-index: 1;
 
   &__nav {
     margin-right: 50px;
@@ -102,12 +103,17 @@ body {
 
 .product-card {
   width: 200px;
+  background-color: #fff;
   border: 1px solid #F3F3F3;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
   padding: 16px;
   margin-bottom: 46px;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 
   &__image {
     width: 160px;
