@@ -89,14 +89,28 @@ body {
 }
 
 .product-cards {
-  flex-direction: column;
-  align-items: center;
-  display: flex;
+  grid-template-columns: 200px;
+  justify-content: center;
+  gap: 46px 48px;
+  display: grid;
 }
 
-.four-cards {
-  gap: 48px;
-  display: flex;
+@media (width >= 488px) {
+  .product-cards {
+    grid-template-columns: 200px 200px;
+  }
+}
+
+@media (width >= 768px) {
+  .product-cards {
+    grid-template-columns: 200px 200px 200px;
+  }
+}
+
+@media (width >= 1044px) {
+  .product-cards {
+    grid-template-columns: 200px 200px 200px 200px;
+  }
 }
 
 .product-card {
@@ -105,7 +119,6 @@ body {
   border-radius: 5px;
   flex-direction: column;
   width: 200px;
-  margin-bottom: 46px;
   padding: 16px;
   display: flex;
 }

@@ -85,14 +85,26 @@ body {
 }
 
 .product-cards {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 200px;
+  column-gap: 48px;
+  row-gap: 46px;
+  justify-content: center;
 }
-
-.four-cards {
-  display: flex;
-  gap: 48px;
+@media (min-width: 488px) {
+  .product-cards {
+    grid-template-columns: 200px 200px;
+  }
+}
+@media (min-width: 768px) {
+  .product-cards {
+    grid-template-columns: 200px 200px 200px;
+  }
+}
+@media (min-width: 1044px) {
+  .product-cards {
+    grid-template-columns: 200px 200px 200px 200px;
+  }
 }
 
 .product-card {
@@ -103,7 +115,6 @@ body {
   display: flex;
   flex-direction: column;
   padding: 16px;
-  margin-bottom: 46px;
 }
 .product-card:hover {
   transform: scale(1.1);
